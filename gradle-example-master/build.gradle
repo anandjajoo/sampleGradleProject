@@ -29,7 +29,7 @@ dependencies {
 testImplementation group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '3.0.6'
 
 // https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web
-implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '3.0.5'
+implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '3.2.1'
 
 // https://mvnrepository.com/artifact/org.hibernate.orm/hibernate-core
 implementation group: 'org.hibernate.orm', name: 'hibernate-core', version: '6.2.7.Final'
